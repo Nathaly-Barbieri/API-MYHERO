@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+body{
+    
+    background-color: #ffaef9;
+    margin-bottom: 100px;
+
+}
+
+form{
+     text-align: center;
+}
+
+h1{
+    
+
+    font-family: 'Bungee', cursive;
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+
+h2{
+    text-align: center;
+}
+
+.botoes{
+
+  background-color: #46caff;
+  padding: 4px;
+
+}
+
+
+img{
+    width: 280px;
+    margin-left: 560px;
+    margin-right: 550px;
+
+}
+
+.showheroes{
+    margin-left: 550px;
+    margin-right: 530px;
+    padding: 30px;
+    border: solid 3px black;
+    background-color: #f490e5;
+}
+
